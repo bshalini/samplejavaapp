@@ -6,3 +6,4 @@ Testing build pipeline view
 testing SCPOlling ..
 hello
 hello
+running on slave
